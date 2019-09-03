@@ -1,0 +1,2 @@
+# csv2table_sample
+JQueryを使ってCSVファイルをHTMLで呼び出して表示するスクリプトパッケージ
